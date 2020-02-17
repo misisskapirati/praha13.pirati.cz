@@ -1,5 +1,5 @@
 ---
-date:         2018-09-18
+date:         2018-06-21
 category:     blog
 tags:         zastupitelstvo praha-13
 layout:       post
